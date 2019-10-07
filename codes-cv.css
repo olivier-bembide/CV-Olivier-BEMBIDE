@@ -1,0 +1,241 @@
+.main{
+    width : 1024px;
+    margin: auto;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 16px;
+    position: relative;
+    bottom : 18px;
+
+}
+
+
+.coordonnes{
+    float: left;
+}
+
+.photo{
+    float :right;
+    position : relative;
+    bottom : 243px;
+     left : 28px;
+}
+
+.postes{
+    font-size: 12px;
+    position: relative;
+    bottom  : 150px;
+    left    : 230px;
+    line-height: 40px;
+}
+
+.section{
+    margin-bottom: 70px;
+    text-align : justify;
+    position: relative;
+    bottom : 285px;
+}
+
+.sec-gauche{
+    float : left;
+    font-weight : bold;
+    font-size : 20px;
+}
+
+.competences{
+    position: relative;
+    bottom: 25px;
+}
+
+.sec-droite{
+    margin-left: 170px;
+}
+
+h2{
+    font-size : 28px;
+    color: #001364;
+    border-bottom: 3px solid #002164;
+}
+
+.presentation{
+    display:inline-block;
+    position : relative;
+    bottom : 275px;
+}
+
+.pres{
+    position: relative;
+    bottom: 10px;
+}
+
+.titres{
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 30px;
+}
+
+.site{
+    color: #012166;
+    font-weight : bold;
+}
+
+.sec-exp{
+    position: relative;
+    bottom : 335px;
+}
+
+.sec-int{
+    position: relative;
+    bottom: 420px;
+}
+
+
+.sec-forma{
+    position: relative;
+    bottom : 380px;
+}
+
+.outils{
+    position: relative;
+    top : 237px;
+}
+
+.wordpress{
+    position: relative;
+    top: 177px;
+}
+
+.seo{
+    position : relative;
+    top : 116px;
+}
+
+.qualiteweb{
+    position : relative;
+    top : 55px;
+}
+
+.accessibilite{
+    position : relative;
+    bottom : 4px;
+}
+
+.informatique{
+    position : relative;
+    bottom : 21px;
+}
+
+.lecture {
+    position: relative;
+    bottom: 25px;
+}
+
+.langues{
+    position: relative;
+    bottom : 20px;
+}
+
+.softkill{
+    position: relative;
+    bottom: 20px;
+}
+
+.annee1{
+    position: relative;
+    bottom : 20px;
+}
+
+.annee2{
+    position: relative;
+    bottom : 7px;
+}
+
+.annee3{
+    position :relative;
+    top : 1px;
+}
+
+.exp1{
+    position: relative;
+    bottom : 15px;
+}
+
+.exp2{
+    position: relative;
+    bottom: 10px;
+}
+
+.exp3{
+    position: relative;
+    bottom:23px;
+}
+
+.img1{
+    position: relative;
+    bottom: 2px;
+    left: 10px;
+}
+
+.img2{
+    position: relative;
+    bottom: 4px;
+    left: 10px;
+}
+
+.img3{
+    position: relative;
+    top: 10px;
+}
+
+.sec-comp{
+    position: relative;
+    bottom: 30px;
+}
+
+.sec-info-comp{
+    position: relative;
+    bottom: 30px;
+}
+
+.exp-titre{
+    position: relative;
+    bottom: 37px;
+}
+
+.sec-exp2{
+    position: relative;
+    bottom: 40px;
+}
+
+.sec-info-exp{
+    position: relative;
+    bottom: 45px;
+}
+
+.sec-info-gauche{
+    position: relative;
+    bottom: 10px;
+}
+
+.sec-info-droite{
+    position: relative;
+    bottom: 15px;
+}
+
+.titre-centre-int{
+    position: relative;
+    bottom: 30px;
+}
+
+.sec-gauche-centre-interet{
+    position: relative;
+    bottom: 30px;
+}
+
+.sec-droite-centre-int{
+    position:relative;
+    bottom: 37px;
+}
+
+
+
+
